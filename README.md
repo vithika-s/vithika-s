@@ -18,4 +18,4 @@ My research examines how contested information, from misinformation to state-spo
 - Glanz, K. A., ... Salomi, V., et al. (2025). CGTN's economic public diplomacy on Facebook and Instagram. *Place Branding and Public Diplomacy*. [doi](https://doi.org/10.1057/s41254-025-00412-6)
 
 ### Links
-[Google Scholar](https://scholar.google.com/citations?user=tepjd_YAAAAJ) · [ORCID](https://orcid.org/0000-0002-6164-0437) · [LinkedIn](https://www.linkedin.com/in/vithika-salomi-a48864130/)
+[Google Scholar](https://scholar.google.com/citations?user=tepjd_YAAAAJ) · [ORCID](https://orcid.org/0000-0002-6164-0437) · [LinkedIn](https://www.linkedin.com/in/vithika-salomi)
