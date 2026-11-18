@@ -17,5 +17,9 @@ My research examines how contested information, from misinformation to state-spo
 - Winkler, C., ... Salomi, V., et al. (2026). Understanding online attention spikes related to states and non-state groups. *The Communication Review*. [doi](https://doi.org/10.1080/10714421.2026.2734933)
 - Glanz, K. A., ... Salomi, V., et al. (2025). CGTN's economic public diplomacy on Facebook and Instagram. *Place Branding and Public Diplomacy*. [doi](https://doi.org/10.1057/s41254-025-00412-6)
 
+### Code
+- [factcheck-claims-collector](https://github.com/vithika-s/factcheck-claims-collector): R pipeline that collects and cleans fact-checked claims from the Google Fact Check Tools API, FactCheck.org and Lead Stories
+- [ssho-prebunking-election-security](https://github.com/vithika-s/ssho-prebunking-election-security): analysis materials for my prebunking study in *Social Sciences & Humanities Open*
+
 ### Links
 [Google Scholar](https://scholar.google.com/citations?user=tepjd_YAAAAJ) · [ORCID](https://orcid.org/0000-0002-6164-0437) · [LinkedIn](https://www.linkedin.com/in/vithika-salomi)
